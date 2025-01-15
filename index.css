@@ -1,0 +1,217 @@
+body{
+    background-color: rgb(20, 32, 53);
+}
+
+.body2{
+    background-color: #795a3a;
+
+}
+
+.yellowPro{
+    background-color: #d8bb00 !important;
+
+}
+
+.i{
+    color: #8790a0;;
+}
+.i2{
+    color: #c4b240;
+
+}
+.navbar {
+    background-color: rgb(20, 32, 53);
+}
+
+.navbar2{
+    background-color: #795a3a;
+}
+
+.hc {
+    color: #009ad8 !important;
+    border-color: #009ad8 !important;
+}
+
+.hd{
+    color: #d8bb00 !important;
+
+}
+
+.hc2{
+    color: #d8bb00;
+    background-color: #d8bb00;
+}
+
+.hs {
+    color: #bfc1c8;
+}
+
+.hss{
+    font-size: 5rem;
+}
+
+.nav-link {
+    transition: all ease-in-out;
+}
+
+.nav-item:hover a {
+    color: #009ad8;
+    border: #009ad8 solid 2px;
+    border-radius: 4rem;
+}
+
+.nav-item2{
+    color:   #d8bb00 !important;
+    border:   #d8bb00 solid 2px !important;
+    border-radius: 4rem !important;
+
+}
+
+.ToggleBtn {
+    width: 75px;
+    height: 30px;
+    background: #009ad8;
+    border-radius: 25px;
+    position: relative;
+    transition: 0.5s;
+    box-shadow: inset 10px -5px 20px -5px #363636;
+}
+
+.sun{
+    width: 8rem;
+}
+
+.circle {
+    cursor: pointer;
+    position: absolute;
+    background: #ffffff;
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    top: 50%;
+    left: 0;
+    border-radius: 50%;
+    transform: translate(0, -50%);
+    transition: 0.5s;
+    box-shadow: inset -5px 5px 20px -5px #363636;
+}
+
+.circle-light {
+    cursor: pointer;
+    position: absolute;
+    background: #ffffff;
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    top: 50%;
+    left: 100%;
+    border-radius: 50%;
+    transform: translate(calc(-100% - 10px), -50%);
+    transition: 0.5s;
+    box-shadow: inset -5px 5px 20px -5px 
+    ;
+}
+
+
+
+.main{
+    height: 22rem;
+    background: url(https://weather-api-orpin-nine.vercel.app/img/banner.png);
+    background-repeat: no-repeat;
+}
+
+#mainSearch{
+    margin-top: 4rem;
+    background-color: rgb(20, 32, 53);
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid transparent;
+    transition: 0.5s;
+}
+
+.mainss{
+    background-color: #795a3a !important;
+}
+
+.info{
+    position: relative;
+}
+
+
+.search-icon{
+    position: absolute;
+    right: 0;
+    top:5rem;
+    right: 2.8rem;
+}
+
+.open-view{
+    background-color: rgb(20, 32, 53) !important;
+
+}
+
+.open-view0{
+    background-color: #81562a !important;
+
+}
+
+.open-view2{
+    background-color: rgb(18, 24, 35);
+} 
+
+.open-view22{
+    background-color:  #795a3a;
+} 
+
+.open-view3{
+    background-color:  rgb(16, 27, 49);
+}
+
+.open-view4{
+    background-color: #5b3b1c;
+}
+
+.open-view5{
+    background-color: #81562a;
+}
+
+
+#mainSearch2{
+    margin-top: 4rem;
+    background-color: rgb(34, 41, 53);
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid transparent;
+    transition: 0.5s;
+}
+
+
+.bbtn:hover{
+    background-color: #ffffff;
+    color: #009ad8;
+}
+
+.bbtn{
+    position: relative;
+    top: -3.8rem;
+    left: 49rem;
+    background-color: #009ad8;
+    color: #ffffff;
+    border-color: rgb(34, 41, 53) !important;
+    transition: all 0.5s ease-in-out;
+
+}
+
+.copyright{
+    position: relative;
+    top: -2rem;
+}
+
+.copycolor{
+    background-color: #d8bb00;
+    color: #ffffff;
+}
+
+.copytext{
+    background-color: #5b3b1c !important;
+}
